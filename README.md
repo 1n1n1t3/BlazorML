@@ -1,3 +1,3 @@
 # BlazorML
 
-Test deployment of Blazor Client Side webapp to Github Pages
+Test poject exploring the capabilities of Blazor+Tensorflow.js for serverless app. 
